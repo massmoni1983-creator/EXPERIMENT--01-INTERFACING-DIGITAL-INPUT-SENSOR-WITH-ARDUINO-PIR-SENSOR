@@ -2,9 +2,11 @@
 
 EXPERIMENT -01  INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PIR SENSOR
 
-# AIM: 
+# Name: MURUGA.S
 
-To interface a digital input sensor (PIR Sensor )with arduino .
+# Reg no:212225040265
+
+# AIM: To interface a digital input sensor (PIR Sensor )with arduino .
 
 # COMPONENTS REQUIRED:
 
@@ -76,6 +78,7 @@ void loop()
 # OUTPUT:
 
 Led ON Working state:
+<img width="684" height="516" alt="image" src="https://github.com/user-attachments/assets/2d4d016e-8e51-4153-8aab-dc2da8456965" />
 
 # RESULT:
 
